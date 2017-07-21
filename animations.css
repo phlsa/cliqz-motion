@@ -1,0 +1,9 @@
+.title>span, .description>span, .icon {
+	transition-property: color, background-color, border-radius;
+	transition-duration: 0.2s;
+}
+
+#upper, #lower {
+	transition-property: height;
+	transition-duration: 0.2s;
+}
